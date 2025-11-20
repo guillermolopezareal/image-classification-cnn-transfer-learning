@@ -67,3 +67,22 @@ Easier gradient flow and deeper effective network
 Result:
 Test accuracy improves to about 0.748
 Confirms the benefit of residual learning on this dataset
+
+### 📊 Example Visualizations
+
+#### Image Preprocessing
+![results](results/image-preprocessing.png)
+
+#### Training and Validation Loss
+![results](results/training-validation-loss.png)
+
+#### CIFAR Dataset
+![results](results/CIFAR-dataset.png)
+
+#### Adding Inception Blocks
+![results](results/adding-inception-blocks.png)
+
+#### Adding Residual Blocks
+![results](results/adding-residual-blocks.png)
+
+
